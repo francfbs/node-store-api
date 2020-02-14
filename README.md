@@ -4,7 +4,7 @@ Api conceitual em nodeJs com mongoDb.
 ##  Features!
 
   - Repository Pattern
-  - Autenticação JWT(Jason Web Token)
+  - Autenticação JWT(Json Web Token)
   - Autorização
   - Envio de Emails (SendGrid)
   - Midlewares (autorização, validação de models, tratamento de exceptions )
