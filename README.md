@@ -1,2 +1,2 @@
 # store-api
-Api conceitual em Nodejs
+Api conceitual em NodeJs
