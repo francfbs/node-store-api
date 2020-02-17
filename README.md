@@ -7,8 +7,8 @@ Api conceitual em nodeJs com mongoDb.
   - Autenticação JWT(Json Web Token)
   - Autorização
   - Envio de Emails (SendGrid)
-  - Midlewares (autorização, validação de models, tratamento de exceptions )
-  - Acesso a Dados monboDb (documents e subdocuments)
+  - Middlewares (autorização, validação de models, tratamento de exceptions )
+  - Acesso a Dados mongoDb (documents e subdocuments)
 
 
 
